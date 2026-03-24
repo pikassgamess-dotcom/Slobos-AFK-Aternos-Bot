@@ -8,7 +8,7 @@
   "server": {
     "ip": "surv22222222222.aternos.me:28202",
     "port": 28202,
-    "version": 1.21,
+    "version": "1.21",
     "try-creative": false
   },
   "position": {
